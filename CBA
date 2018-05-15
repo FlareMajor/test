@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Ur'Lords Meme Hub</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
+<body>
+
+<div class="container">
+    <h1>Sam and Aaron' meme hub.</h1>
+    <p>This memehub is made with 100% authentic dankery, and also with <strong>BootStrap 4</strong></p>
+</div>
+<h4>        To truely appreciate a meme, you must first understand some very basic types of memes, including:</h4>
+<div class="container">
+  <div class="row">
+    <div class="col-sm-4">
+      <h3>Dank Memes</h3>
+      <p>Older, less humorous memes that everyone has seen or heard of</p>
+      <p>An example:</p>
+<img src="dank.jpg" alt="Cancer">
+    </div>
+    <div class="col-sm-4">
+      <h3>Edgy memes</h3>
+       <p>Edgy memes for edgy people</p>
+       <p>An example:</p>
+      <img src="autism.jpg" alt="Don't">
+    </div>
+    <div class="col-sm-4">
+      <h3>Modern memes</h3> 
+      <p>Memes such as this are created post 2016.</p>
+      <p>An example:</p>
+<img src="modern.jpg" alt="communism">
+</div>
+  </div>
+</div>
+
+<br>
+<br>
+<br>
+<br>
+<h5>             Now, we have a meme submission section.</h5>
+<p>             This section is for memes submitted by anyone.</p>
+<p>             To submit <strong>your memes</strong> send an e-mail to spowermountsion@gmail.com.</p>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<img src="logang.jpg" alt="Down with Jake and Logan Paul!">
+
+    
+
+</body>
